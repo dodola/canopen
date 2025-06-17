@@ -1,0 +1,2 @@
+# This file is to ensure the srv directory is tracked by git.
+# Service definitions (.srv files) for the xiaoyu_motor_node package will be placed here.
