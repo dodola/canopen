@@ -1,8 +1,0 @@
-string firmware_url  # URL to download firmware from
-uint32 target_addr   # Target address for flashing (default: 0x08040000)
-uint32 packet_size   # Data packet size (default: 128)
-float32 frame_delay  # Frame delay in seconds (default: 0.02)
-bool debug           # Enable debug output (default: false)
----
-bool success         # Indicates if the firmware update was successful
-string message       # Additional information or error message
